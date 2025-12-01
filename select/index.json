@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Done For Me",
+  "base_artist": "Punch",
+  "createdAt": "2025-12-01T12:39:41.057333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Done for Me",
+      "artist": "Charlie Puth feat. Kehlani",
+      "has_synced": true,
+      "path": "select/01_Done_for_Me_Charlie_Puth_feat._Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Done for Me (feat. Kehlani)",
+      "artist": "Charlie Puth, Kehlani",
+      "has_synced": true,
+      "path": "select/02_Done_for_Me_(feat._Kehlani)_Charlie_Puth,_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Done for Me (feat. Kehlani) - Loud Luxury Remix",
+      "artist": "Charlie Puth feat. Kehlani & Loud Luxury",
+      "has_synced": true,
+      "path": "select/03_Done_for_Me_(feat._Kehlani)_-_Loud_Luxury_Remix_Charlie_Puth_feat._Kehlani_&_Loud_Luxury.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Done for Me - Loud Luxury Remix",
+      "artist": "Charlie Puth/Kehlani/Loud Luxury",
+      "has_synced": true,
+      "path": "select/04_Done_for_Me_-_Loud_Luxury_Remix_Charlie_Puth_Kehlani_Loud_Luxury.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Look What You Done for Me",
+      "artist": "Al Green",
+      "has_synced": true,
+      "path": "select/05_Look_What_You_Done_for_Me_Al_Green.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What Have You Done for Me Lately",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/06_What_Have_You_Done_for_Me_Lately_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Done for Me (feat. Kehlani)",
+      "artist": "Charlie Puth feat. Kehlani",
+      "has_synced": true,
+      "path": "select/07_Done_for_Me_(feat._Kehlani)_Charlie_Puth_feat._Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Done For Me (feat. Kehlani)",
+      "artist": "Charlie Puth, Kehlani",
+      "has_synced": true,
+      "path": "select/08_Done_For_Me_(feat._Kehlani)_Charlie_Puth,_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Have You Done for Me Lately",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/09_What_Have_You_Done_for_Me_Lately_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Done For Me",
+      "artist": "Charlie Puth feat. Kehlani",
+      "has_synced": true,
+      "path": "select/10_Done_For_Me_Charlie_Puth_feat._Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Done For Me (feat. Kehlani)",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/11_Done_For_Me_(feat._Kehlani)_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Look What You Done For Me",
+      "artist": "Al Green",
+      "has_synced": true,
+      "path": "select/12_Look_What_You_Done_For_Me_Al_Green.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Look What You Done For Me",
+      "artist": "The Very Best Of Al Green",
+      "has_synced": true,
+      "path": "select/13_Look_What_You_Done_For_Me_The_Very_Best_Of_Al_Green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Look What You've Done for Me",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/14_Look_What_You've_Done_for_Me_Al_Green.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Look What You've Done for Me",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/15_Look_What_You've_Done_for_Me_Al_Jarreau.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Done For Me feat. Kehlani",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Done_For_Me_feat._Kehlani_Charlie_Puth.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Done For Me",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_02_Done_For_Me_Charlie_Puth.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Done For Me (feat. Kehlani)",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_03_Done_For_Me_(feat._Kehlani)_Charlie_Puth.txt"
+    }
+  ]
+}
